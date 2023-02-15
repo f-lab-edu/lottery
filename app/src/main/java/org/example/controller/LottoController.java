@@ -1,9 +1,9 @@
-package app.src.main.java.org.example.controller;
+package org.example.controller;
 
 import app.src.main.java.org.example.domain.Result;
 import app.src.main.java.org.example.domain.WinLottoNumbers;
-import app.src.main.java.org.example.view.InputView;
 import app.src.main.java.org.example.view.OutputView;
+import org.example.view.InputView;
 
 import java.util.List;
 
