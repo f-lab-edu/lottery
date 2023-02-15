@@ -1,4 +1,4 @@
-package app.src.main.java.org.example.view;
+package org.example.view;
 
 import app.src.main.java.org.example.exception.InvalidLottoInputFormatException;
 import app.src.main.java.org.example.exception.SingleNumberFormatException;

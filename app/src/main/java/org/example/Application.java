@@ -1,15 +1,9 @@
-package app.src.main.java.org.example;
+package org.example;
 
-
-import app.src.main.java.org.example.controller.LottoController;
-
+import org.example.controller.LotteryController;
 
 public class Application {
     public static void main(String[] args) {
-
-        LottoController lotto = new LottoController();
-
-        lotto.start();
-
+        new LotteryController().start();
     }
 }
